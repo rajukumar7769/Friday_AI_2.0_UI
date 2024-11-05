@@ -17,6 +17,6 @@ To get started with Friday AI-2.0, follow these steps:
 
 - Python 3.8 or higher
 - [Gemini API](https://ai.google.dev/gemini-api/docs/api-key) key for conversational intelligence (or any equivalent API such as ChatGPT or Google Gemini).
-- [Porcupine API Keys](https://picovoice.ai/platform/porcupine/) API key for NLP and Avatar Control.
+- [Porcupine API Keys](https://picovoice.ai/platform/porcupine/) API key for custum wake up word like Friday.
 
 
